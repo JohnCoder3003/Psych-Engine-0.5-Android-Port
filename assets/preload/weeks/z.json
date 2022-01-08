@@ -1,0 +1,40 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "z",
+	"weekbefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sonichrome",
+			"deadsonic.exe",
+			[
+				20,
+				20,
+				40
+			]
+		],
+		[
+			"funny-song.mpeg",
+			"sunky",
+			[
+				20,
+				60,
+				180
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

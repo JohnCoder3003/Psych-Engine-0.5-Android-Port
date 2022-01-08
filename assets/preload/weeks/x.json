@@ -1,0 +1,49 @@
+{
+	"storyName": "Literature Club",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "monikaexe",
+	"weekbefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"",
+			"nobf",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"",
+			"nobf",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"",
+			"nobf",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

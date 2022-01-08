@@ -1,0 +1,49 @@
+{
+	"storyName": "Literature Club",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "monikaexe",
+	"weekbefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"just-monika",
+			"monika.exe",
+			[
+				60,
+				140,
+				55
+			]
+		],
+		[
+			"undeletable",
+			"monikap2",
+			[
+				60,
+				120,
+				55
+			]
+		],
+		[
+			"festival",
+			"deadsayori",
+			[
+				60,
+				100,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

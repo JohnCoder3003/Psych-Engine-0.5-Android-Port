@@ -1,0 +1,49 @@
+{
+	"storyName": "the memes",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "fgfgfg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too-smol",
+			"neatuski",
+			[
+				186,
+				73,
+				115
+			]
+		],
+		[
+			"milkn'-cookies",
+			"natsunki",
+			[
+				246,
+				133,
+				155
+			]
+		],
+		[
+			"dear-sunshine",
+			"sayo-doll",
+			[
+				126,
+				193,
+				233
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
